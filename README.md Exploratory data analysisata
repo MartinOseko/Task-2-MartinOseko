@@ -1,0 +1,11 @@
+Exploratory Data Analysis
+1200 rows of e-commerce dataset.
+*Data quality check
+*Summmarize revenue
+*Computes Correlation
+*Generates Graphs
+
+MAJOR FINDINGS
+*NO missing values since the data was cleaned
+*Rvenue is fairly distributed across- no major dominanant
+*Order total correlates most with unit price(0.72) and quantity(0.62)
